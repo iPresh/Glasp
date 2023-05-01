@@ -61,6 +61,7 @@ It’s easy to get started with this web highlighting tool. Here’s a guide on 
 1. Create an account: Visit the Glasp [website](glasp.co) and create a free account.
 
 ![glasp-image](./images/g1.PNG)  
+
 After clicking the Sign-up button, another page appears. Proceed to create an account using your Google account.  
 
 ![glasp-image](./images/g2.PNG)  
@@ -68,20 +69,25 @@ After clicking the Sign-up button, another page appears. Proceed to create an ac
 2. Install the Glasp Extension to Your Browser: Install the Glasp extension for your web browser. You can install it for Chrome, Brave, Safari, Microsoft Edge, and so on. The extension enables you to highlight web pages directly in your browser. You can also decide to pin it on the toolbar for easy access.  
 
 ![glasp-image](./images/g3.PNG)  
+
 Click **Add to Chrome** to install the extension.  
 
-![glasp-image](./images/test.PNG)  
+![glasp-image](./images/test.PNG) 
+
 When you click on the Extensions icon, you should see Glasp installed.  
 
 3. Highlight an Article: When you come across an important or catchy section of an article, select the text. When you select it, a popup will appear. Choose any color you like. If you want to remove the highlight, click on the close icon that appears when you click on the highlighted section.  
 
 ![glasp-image](./images/g4.PNG)  
 
-4. View your Highlights: All your highlights will be saved to your Glasp account. Open the Glasp home page and go to **My Highlights** at the top left.  
+4. View your Highlights: All your highlights will be saved to your Glasp account. Open the Glasp home page and go to **My Highlights** at the top left. 
+
 ![glasp-image](./images/g5.PNG)  
+
 The home icon is at the top right of the sidebar  
 
-![glasp-image](./images/g6.PNG)
+![glasp-image](./images/g6.PNG)  
+
 When you click on **My Highlights**, it shows all your highlights. Click on the one you want to categorize. You’ll see a tag section, click on ‘Empty’ to add a category. 
 
 ![glasp-image](./images/g7.PNG)  
@@ -89,6 +95,7 @@ When you click on **My Highlights**, it shows all your highlights. Click on the 
 5. Share your Highlights and Notes: You can copy your Glasp profile link and share it with others. Anyone with the link can view your highlights and notes.  
 
 6. Deleting your Highlights: Users can also delete highlighted articles. Select the highlight, then click on the three dots at the top right. You’ll see **Delete Page**.  
+
 ![glasp-image](./images/g8.PNG)  
 
 ##  6. <a name='FrequentlyAskedQuestions'></a>Frequently Asked Questions  
