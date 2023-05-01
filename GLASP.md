@@ -34,26 +34,26 @@ Interestingly, Glasp isn’t just for highlighting texts and taking notes. It’
 ##  3. <a name='FeaturesofGlasp'></a>Features of Glasp  
 Glasp is a great web highlighting tool with various features to enhance your web reading experience and make it easier to organize essential information. Some of the features include the following:  
 
-1. Highlighting: With Glasp, you can highlight important sections of any webpage. Simply select the text you want to highlight and choose a color. This highlighting feature makes it easier to access information and important details later. 
+1. **Highlighting:** With Glasp, you can highlight important sections of any webpage. Simply select the text you want to highlight and choose a color. This highlighting feature makes it easier to access information and important details later. 
 
-2. Create Notes: Creating notes is another powerful feature of the Glasp app. You can add notes to your highlighted sections. That way, it’s easy to provide additional context and information to your findings. 
+2. **Create Notes:** Creating notes is another powerful feature of the Glasp app. You can add notes to your highlighted sections. That way, it’s easy to provide additional context and information to your findings. 
 
-3. Categorization: Asides from highlighting texts and making notes, you can also categorize your findings. With Glasp, you can categorize your highlights into different topics. Doing this makes it easy to organize your research.  
+3. **Categorization:** Asides from highlighting texts and making notes, you can also categorize your findings. With Glasp, you can categorize your highlights into different topics. Doing this makes it easy to organize your research.  
 
-4. Sharing and Collaboration: As mentioned earlier, Glasp is a social web tool. So you can share your notes and highlights with people. That way, you can collaborate with others on research topics, share ideas with colleagues, and also get feedback.  
+4. **Sharing and Collaboration:** As mentioned earlier, Glasp is a social web tool. So you can share your notes and highlights with people. That way, you can collaborate with others on research topics, share ideas with colleagues, and also get feedback.  
 
-5. Export in Different Formats: Glasp allows you to export your highlights in different formats. You can export highlighted sections in HTML, CSV, and text.  
+5. **Export in Different Formats:** Glasp allows you to export your highlights in different formats. You can export highlighted sections in HTML, CSV, and text.  
 
 
 ##  4. <a name='BenefitsofUsingGlaspWebHighlighter'></a>Benefits of Using Glasp Web Highlighter
 There are several key benefits of using the Glasp Web Highlighting tool for online research. Some of the notable benefits include:  
-1. Time-Saving and Convenient: With Glasp, you don’t have to continue switching between web pages when browsing or reading an article. It allows you to effortlessly clip important sections of web pages and videos. Also, the next time you visit the web page, you’ll see the highlighted texts and notes. 
+1. **Time-Saving and Convenient:** With Glasp, you don’t have to continue switching between web pages when browsing or reading an article. It allows you to effortlessly clip important sections of web pages and videos. Also, the next time you visit the web page, you’ll see the highlighted texts and notes. 
 
-2. Organization: You can organize your highlights into different categories and sub-categories with Glasp. It’s easy for users to access information quickly when they need them.  
+2. **Organization:** You can organize your highlights into different categories and sub-categories with Glasp. It’s easy for users to access information quickly when they need them.  
 
-3. Collaboration: Users can share their notes and highlights with others, making it easy to collaborate with colleagues and friends on other platforms like Twitter. 
+3. **Collaboration:** Users can share their notes and highlights with others, making it easy to collaborate with colleagues and friends on other platforms like Twitter. 
 
-4. Customization: You can tailor the Glasp app to your preferences. For instance, when highlighting a section of a web page, you can choose the color of your highlight.
+4. **Customization:** You can tailor the Glasp app to your preferences. For instance, when highlighting a section of a web page, you can choose the color of your highlight.
 
 
 ##  5. <a name='HowtoUsetheGlaspWebHighlighter'></a>How to Use the Glasp Web Highlighter
